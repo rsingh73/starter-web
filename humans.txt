@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ravi Kant Singh ravi@732010@gmail.com
 
 # THANKS
 
